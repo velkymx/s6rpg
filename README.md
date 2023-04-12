@@ -29,7 +29,7 @@ Contributing to the S6 RPG project is welcome and appreciated! Here are some gui
 
 There are a few ways you can contribute:
 
-1. Create an issue in the issue tracker above
+1. Create an issue in the [issue tracker](https://github.com/velkymx/s6rpg/issues) above
 2. Createa a branch with your change and then a pull request to have it merged into the main rules
 
 ## License
