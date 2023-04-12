@@ -17,13 +17,14 @@ Contributing to the S6 RPG project is welcome and appreciated! Here are some gui
 1. Familiarize yourself with the existing rules and materials before making any contributions.
 2. Contributions can be in the form of new classes, weapons, vehicles, NPCs, adventures, or any other related content.
 3. All contributions should follow the established rules and guidelines for balance and consistency.
-4. Make sure to clearly label and document your contributions for easy integration into the game.
-5. Provide clear and concise descriptions for any new content added to the game.
-6. All contributions should be original work or properly attributed to the original source.
-7. Contributions will be reviewed by the project maintainers and may be modified or rejected if deemed necessary.
-8. Be respectful and constructive in your contributions and interactions with other contributors.
-9. Contributions should be made through a version control system such as GitHub, with clear commit messages and documentation.
-10. All contributions should be released under an open-source license that is compatible with the existing project license.
+4. All contributions should be in the [Markdown](https://www.markdownguide.org/basic-syntax/) format
+5. Make sure to clearly label and document your contributions for easy integration into the game.
+6. Provide clear and concise descriptions for any new content added to the game.
+7. All contributions should be original work or properly attributed to the original source.
+8. Contributions will be reviewed by the project maintainers and may be modified or rejected if deemed necessary.
+9. Be respectful and constructive in your contributions and interactions with other contributors.
+10. Contributions should be made through a version control system such as GitHub, with clear commit messages and documentation.
+11. All contributions should be released under an open-source license that is compatible with the existing project license.
 
 ### Making a contribution
 
