@@ -1,4 +1,4 @@
-# s6rpg
+# S6 RPG System
 
 Formatted rules can be found here: https://simplednd.wordpress.com/2023/04/11/simple6/
 
