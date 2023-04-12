@@ -35,4 +35,4 @@ There are a few ways you can contribute:
 
 ## License
 
-See the license.md file for the Creative Commons license.
+See the license.md file for the [Creative Commons Universal](https://github.com/velkymx/s6rpg/blob/main/LICENSE) license.
