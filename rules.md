@@ -64,6 +64,30 @@ Bob's Turn (Round 1):
 
 He uses 3 Action Points for a Standard Action to attack Alice with his two-handed sword. He rolls a d6 for his attack, getting a 5, and adds his Melee modifier (+5) and "Power Strike" tag bonus (+2), totaling 12. His attack easily surpasses Alice's Defense (3). Bob's attack hits for 9 damage (12 - 3), plus the two-handed sword damage for a total of 14. Alice chooses to use her "Save" ability, rolling a d6 for each point of damage. She gets two 6s, nullifying 2 points of damage. Her Health drops from 10 to -2. Alice is taken out of the game.
 
+## Alternatives to Damage
+
+Instead of taking damage, players can choose to take a negative tag in exchange for reducing the damage taken. Here are 20 tags that could negatively impact a player and their effects on their stats:
+
+* Limpy: -2 to Move, -1 to Fortitude, -1 to Defense.
+* Concussed: -1 to Wits, -1 to Personality, -1 to Defense.
+* Deafened: -2 to Ballistics, -1 to Personality, -1 to Defense.
+* Exhausted: -1 to Move, -1 to Ballistics, -1 to Fortitude, -1 to Defense.
+* Bleeding: -1 to Fortitude, -1 to Defense.
+* Poisoned: -1 to Fortitude, -1 to Wits, -1 to Defense.
+* Stunned: -1 to Action Points, -1 to Defense.
+* Disarmed: -2 to Ballistics, -2 to Melee, -1 to Defense.
+* Blinded: -2 to Ballistics, -1 to Wits, -1 to Defense.
+* Sprained: -1 to Move, -1 to Fortitude, -1 to Defense.
+* Crippled: -2 to Move, -2 to Fortitude, -2 to Defense.
+* Terrified: -2 to Personality, -1 to Wits, -1 to Defense.
+* Confused: -1 to Wits, -1 to Personality, -1 to Defense.
+* Disoriented: -1 to Ballistics, -1 to Fortitude, -1 to Defense.
+* Nauseated: -1 to Fortitude, -1 to Wits, -1 to Defense.
+* Burned: -2 to Fortitude, -1 to Defense.
+* Paralyzed: -3 to Action Points, -3 to Defense.
+* Dazed: -1 to Wits, -1 to Defense.
+* Mutilated: -4 to Fortitude, -3 to Defense.
+
 ## Hacking Example
 
 In this scenario, let's introduce a new character, Charlie, who will attempt to hack a military-grade computer.
