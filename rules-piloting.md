@@ -43,19 +43,6 @@ These actions will consume Action Points, just like standard character actions.
 * Land/Takeoff (3 points): For aircraft or VTOL vehicles, execute a safe landing or takeoff from a suitable surface. May require a successful piloting skill check in difficult conditions.
 * Dock/Undock (2 points): For boats or spacecraft, securely dock or undock with another vessel or structure.
 
-### Dogfighting Example
-
-In this example, we have two spacecraft pilots, Pilot A and Pilot B, engaged in a heated dogfight. Both pilots have Wits 4, and their spacecraft are equipped with lasers (+2 to Ballistics) and missile systems (+3 to Ballistics). Their spacecraft also have a base Defense of 10 and a Save of 5. The pilots have the "Spacecraft Combat" tag, granting them a +2 bonus to piloting checks while operating their spacecraft.
-
-Turn 1: Pilot A wins the initiative roll and goes first. Pilot A decides to close the distance and get a better firing position. They spend 2 Action Points to Accelerate and position their spacecraft closer to Pilot B's.
-Using their remaining 3 Action Points, Pilot A fires their lasers at Pilot B. They roll a d6 for their attack (rolling a 4) and add their Ballistics modifier (+2) and "Spacecraft Combat" tag bonus (+2), totaling 8. Since 8 is lower than Pilot B's Defense (10), the attack misses.
-Now it's Pilot B's turn. They spend 3 Action Points to perform an Evasive Maneuver, attempting to shake off Pilot A. They roll a d6 (rolling a 5) and add their Wits modifier (+4) and "Spacecraft Combat" tag bonus (+2), totaling 11. Succeeding the maneuver, Pilot B manages to break away from Pilot A's firing line. Pilot B then uses their remaining 2 Action Points to Turn, facing Pilot A.
-As Pilot B doesn't have enough Action Points left to fire their missile system, they end their turn.
-
-Turn 2: Pilot A, now realizing the threat of Pilot B's missiles, decides to focus on evasive tactics. They spend 3 Action Points to perform another Evasive Maneuver, followed by 2 Action Points to Turn and face Pilot B. As Pilot A doesn't have enough Action Points left to fire their lasers, they end their turn.
-Pilot B, sensing an opportunity, spends 2 Action Points to Accelerate and get closer to Pilot A. They then spend their remaining 3 Action Points to fire their missile system at Pilot A. They roll a d6 (rolling a 6, which explodes) and roll an additional d6 (rolling a 2), adding their Ballistics modifier (+3) and "Spacecraft Combat" tag bonus (+2), totaling 13. Since 13 is higher than Pilot A's Defense (10), the attack hits, dealing 3 damage (13 - 10), plus the missile damage (5), for a total of 8 damage.
-This dogfight continues with both pilots employing a mix of evasive maneuvers, clever tactics, and well-timed attacks. The outcome will ultimately depend on their skills, luck, and the choices they make during the battle.
-
 ## Vehicle List
 
 Sports Car (Land)
@@ -257,3 +244,21 @@ Space Battleship (Space)
 * Weapons: Laser Turrets (Range: Medium, Damage: 5, Tags: Energy), Torpedoes (Range: Long, Damage: 8, Tags: Explosive, Guided), Point-Defense System (Range: Short, Damage: 2, Tags: Rapid Fire)
 * Storage: 50-200 Passengers, Large Cargo Space
 * Special Actions: Command Center, Launch Fighters
+
+### Dogfighting Example
+
+In this example, we have two spacecraft pilots, Pilot A and Pilot B, engaged in a heated dogfight. Both pilots have Wits 4, and their spacecraft are equipped with lasers (+2 to Ballistics) and missile systems (+3 to Ballistics). Their spacecraft also have a base Defense of 10 and a Save of 5. The pilots have the "Spacecraft Combat" tag, granting them a +2 bonus to piloting checks while operating their spacecraft.
+
+Turn 1: Pilot A wins the initiative roll and goes first. Pilot A decides to close the distance and get a better firing position. They spend 2 Action Points to Accelerate and position their spacecraft closer to Pilot B's.
+
+Using their remaining 3 Action Points, Pilot A fires their lasers at Pilot B. They roll a d6 for their attack (rolling a 4) and add their Ballistics modifier (+2) and "Spacecraft Combat" tag bonus (+2), totaling 8. Since 8 is lower than Pilot B's Defense (10), the attack misses.
+
+Now it's Pilot B's turn. They spend 3 Action Points to perform an Evasive Maneuver, attempting to shake off Pilot A. They roll a d6 (rolling a 5) and add their Wits modifier (+4) and "Spacecraft Combat" tag bonus (+2), totaling 11. Succeeding the maneuver, Pilot B manages to break away from Pilot A's firing line. Pilot B then uses their remaining 2 Action Points to Turn, facing Pilot A.
+
+As Pilot B doesn't have enough Action Points left to fire their missile system, they end their turn.
+
+Turn 2: Pilot A, now realizing the threat of Pilot B's missiles, decides to focus on evasive tactics. They spend 3 Action Points to perform another Evasive Maneuver, followed by 2 Action Points to Turn and face Pilot B. As Pilot A doesn't have enough Action Points left to fire their lasers, they end their turn.
+
+Pilot B, sensing an opportunity, spends 2 Action Points to Accelerate and get closer to Pilot A. They then spend their remaining 3 Action Points to fire their missile system at Pilot A. They roll a d6 (rolling a 6, which explodes) and roll an additional d6 (rolling a 2), adding their Ballistics modifier (+3) and "Spacecraft Combat" tag bonus (+2), totaling 13. Since 13 is higher than Pilot A's Defense (10), the attack hits, dealing 3 damage (13 - 10), plus the missile damage (5), for a total of 8 damage.
+
+This dogfight continues with both pilots employing a mix of evasive maneuvers, clever tactics, and well-timed attacks. The outcome will ultimately depend on their skills, luck, and the choices they make during the battle.
